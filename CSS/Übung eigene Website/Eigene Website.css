@@ -1,13 +1,10 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-  }
-  
-  section img {
-    margin-left: 30px;
+
+    .Blumlogo {
+    margin-left: 120px;
+    position: absolute;
     display: flex;
     justify-content: left;
+    margin-top: 40px;
   }
   nav {
     display: flex;
@@ -31,6 +28,7 @@ body {
     list-style: none;
     display: flex;
     font-size: 1.2rem;
+    margin-bottom: 50px;
     }
     
     nav li {
@@ -80,4 +78,9 @@ body {
     text-align: center;
     padding: 20px;
   }
-  
+  .Pic{
+    display: flex;
+    position: absolute;
+    margin-block-start: 40px;
+    width: 100%;
+  }
